@@ -1,0 +1,6 @@
+{"check": "B", "ep": "fumo-code", "qid": "MT-07", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 93.47, "elapsed": 139.61, "raw": null}
+{"check": "B", "ep": "fumo-code", "qid": "MT-02", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 98.27, "elapsed": 152.57, "raw": null}
+{"check": "B", "ep": "fumo-code", "qid": "MT-11", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 143.07, "elapsed": 114.19, "raw": null}
+{"check": "B", "ep": "fumo-max", "qid": "MT-07", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 33.0, "elapsed": 105.17, "raw": null}
+{"check": "B", "ep": "fumo-max", "qid": "MT-02", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 53.89, "elapsed": 126.14, "raw": null}
+{"check": "B", "ep": "fumo-max", "qid": "MT-11", "run": 0, "turn": 2, "ok": true, "elapsed_t1": 103.99, "elapsed": 242.04, "raw": null}
